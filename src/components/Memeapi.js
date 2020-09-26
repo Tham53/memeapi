@@ -42,7 +42,7 @@ class Memeapi extends React.Component{
                         
                         <input name='bottomText' type='text' placeholder='Bottom Text' value={this.state.bottomText} onChange={this.handleChange}/>
                         
-                        <button onClick={this.handleSubmit}>Gen</button>
+                        <button onClick={this.handleSubmit}>abra kadabra</button>
                     </form>
                     <div className="meme">
                         <img src={this.state.randomImg} alt="" />

@@ -89,7 +89,7 @@ header > p {
     font-size: 25px;
     letter-spacing: 1.5px;
     color: white;
-    background: #1f4037;
+    background: purple;
 }
 
 .meme-form > input::-webkit-input-placeholder {
